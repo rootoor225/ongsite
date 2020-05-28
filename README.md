@@ -1,8 +1,9 @@
 # ongsite  
 
-Site internet d'une **ONG** en :  
- 
->> + développement durable. Fonctionnalités requises:  
+Site internet d'une **ONG** en développement durable. 
+
+## Fonctionnalités requises:   
+```//En extraire les tables SQL  
 >> + gestion des articles d'actualités,  
 >> + gestion des activités ou actions de l'ONG,  
 >> + gestion des onglets du menu,  
@@ -14,3 +15,7 @@ Site internet d'une **ONG** en :
 >> + gestion des notifications,  
 >> + gestion des participations aux (programmes d') activités de l'ONG, gestion des membres,  
 >> + gestions des opportunités ou offres (stages, emplois, contrats, recrutements, etc...)  
+```  
+  
+
+  ### Auteur : Rootoor
