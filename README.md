@@ -4,7 +4,7 @@ Site internet d'une **ONG** en développement durable.
 
 ## Fonctionnalités requises:   
 ```//En extraire les tables SQL  
->> + gestion des articles d'actualités,  
+>>+gestion des articles d'actualités,  
 >> + gestion des activités ou actions de l'ONG,  
 >> + gestion des onglets du menu,  
 >> + gestion des collectes ou levées de fonds,  
